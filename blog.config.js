@@ -45,7 +45,7 @@ const BLOG = {
   CONTACT_EMAIL: 'qianfota44487@gmail.com',
   CONTACT_WEIBO: '',
   CONTACT_TWITTER: '',
-  CONTACT_GITHUB: 'https://github.com/tangly1024',
+  CONTACT_GITHUB: 'https://github.com/usagilo',
   CONTACT_TELEGRAM: '',
 
   // 鼠标点击烟花特效
