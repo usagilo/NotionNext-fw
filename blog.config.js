@@ -1,9 +1,9 @@
 // 注: process.env.XX是Vercel的环境变量，配置方式见：https://docs.tangly1024.com/zh/features/personality
 const BLOG = {
-  AUTHOR: '废文乐府', // 作者
-  BIO: '一个养老院的历史博物馆', // 作者简介
+  AUTHOR: '废物乐园', // 作者
+  BIO: '离退休老废物疗养处', // 作者简介
   LINK: 'https://vast-week-eaf.notion.site/892020f7dbfd49deb8ea5bbcdff785e1?v=46d8d04182ad4c77ad468883b5c21cf1', // 网站地址
-  KEYWORDS: '编辑, 档案，纪念簿', // 网站关键词 英文逗号隔开
+  KEYWORDS: '文学, 档案，纪念簿', // 网站关键词 英文逗号隔开
   NOTION_PAGE_ID:
   process.env.NOTION_PAGE_ID || '892020f7dbfd49deb8ea5bbcdff785e1', // Important page_id！！！Duplicate Template from  https://www.notion.so/tanghh/02ab3b8678004aa69e9e415905ef32a5
   NOTION_ACCESS_TOKEN: process.env.NOTION_ACCESS_TOKEN || '', // Useful if you prefer not to make your database public
@@ -45,7 +45,7 @@ const BLOG = {
   CONTACT_EMAIL: 'qianfota44487@gmail.com',
   CONTACT_WEIBO: '',
   CONTACT_TWITTER: '',
-  CONTACT_GITHUB: 'https://github.com/usagilo',
+  CONTACT_GITHUB: '',
   CONTACT_TELEGRAM: '',
 
   // 鼠标点击烟花特效
